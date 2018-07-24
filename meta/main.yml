@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: valve_steam
   author: Richard Gibert
   description: Valve Steam
   license: GPLv3
